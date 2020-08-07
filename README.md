@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 My name is **Adailson Aguiar** and I have a degree in Information Systems from the Catholic University of Tocantins. Passionate about technologies and always open to new experiences and achievements. I am currently focused on frontend technologies, mainly ReactJs and React Native.
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adailsonaguiar)](https://www.linkedin.com/in/adailsonaguiar)
 
 <!--
