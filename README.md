@@ -9,9 +9,7 @@ My name is **Adailson Aguiar** and I have a degree in Information Systems from t
 
 ### :bulb: Projetos
 
-Flappy Bird [![Flappy Bird Icon](https://gbatemp.net/attachments/icon-png.73831)](https://adailsonaguiar.github.io/flappy-bird/)
-
-Flappy Bird <a href="https://adailsonaguiar.github.io/flappy-bird/"><img src="https://gbatemp.net/attachments/icon-png.73831" alt="" width="50" /></a>
+<a href="https://adailsonaguiar.github.io/flappy-bird/" target="_blank"><img src="https://gbatemp.net/attachments/icon-png.73831" alt="" width="30" /> Flappy Bird</a>
 
 <!--
 **adailsonaguiar/adailsonaguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
