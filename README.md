@@ -9,12 +9,12 @@ My name is **Adailson Aguiar** and I have a degree in Information Systems from t
 
 ### :bulb: Projects
 
-- <a href="https://adailsonaguiar.github.io/flappy-bird/" target="_blank">Flappy Bird <img src="https://gbatemp.net/attachments/icon-png.73831" alt="" width="30" /></a>
-- <a href="https://thirsty-lalande-7cf3a3.netlify.app/" target="_blank">infoplay <img src="https://thirsty-lalande-7cf3a3.netlify.app/static/media/logo.978d4a4a.svg" alt="" width="70" /></a>
-- <a href="https://ar-livre.vercel.app/" target="_blank">Arlivre <img src="https://ar-livre.vercel.app/static/media/logo.1c9dc3c2.png" alt="" width="70" /></a>
-- <a href="https://unruffled-newton-1830f3.netlify.app/" target="_blank">Linkedin Clone <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="" width="30" /></a>
-- <a href="https://pokedex-with-graphql.vercel.app/" target="_blank">Pokedex Graphql <img src="https://pokedex-with-graphql.vercel.app/static/media/pokebola.2f044472.svg" alt="" width="30" /></a>
-- <a href="https://laplay-web.herokuapp.com/#/" target="_blank">Laplay <img src="https://laplay-web.herokuapp.com/static/media/icon.968d95d4.svg" alt="" width="30" /></a>
+<a href="https://github.com/adailsonaguiar/flappy-bird" target="_blank"><img src="https://gbatemp.net/attachments/icon-png.73831" alt="" width="30" /></a>
+<a href="https://github.com/adailsonaguiar/infoplay" target="_blank"><img src="https://thirsty-lalande-7cf3a3.netlify.app/static/media/logo.978d4a4a.svg" alt="" width="70" /></a>
+<a href="https://github.com/adailsonaguiar/ar-livre" target="_blank"><img src="https://ar-livre.vercel.app/static/media/logo.1c9dc3c2.png" alt="" width="70" /></a>
+<a href="https://github.com/adailsonaguiar/linkedin-ui-clone" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="" width="30" /></a>
+<a href="https://github.com/adailsonaguiar/pokedex-with-graphql" target="_blank"><img src="https://pokedex-with-graphql.vercel.app/static/media/pokebola.2f044472.svg" alt="" width="30" /></a>
+<a href="https://github.com/adailsonaguiar/laplay-web" target="_blank"><img src="https://laplay-web.herokuapp.com/static/media/icon.968d95d4.svg" alt="" width="30" /></a>
 
 
 <!--
