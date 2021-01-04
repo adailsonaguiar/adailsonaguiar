@@ -7,9 +7,9 @@ My name is **Adailson Aguiar** and I have a degree in Information Systems from t
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adailsonaguiar)](https://www.linkedin.com/in/adailsonaguiar)
 
-Projetos
+### :bulb: Projetos
 
-Flappy Bird [![Flappy Bird Icon](https://gbatemp.net/attachments/icon-png.73831/)](https://adailsonaguiar.github.io/flappy-bird/)
+Flappy Bird [![Flappy Bird Icon](https://gbatemp.net/attachments/icon-png.73831 | width=50)](https://adailsonaguiar.github.io/flappy-bird/)
 
 <!--
 **adailsonaguiar/adailsonaguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,3 +25,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+| Plugin | README |
+| ------ | ------ |
+| Dropbox | [plugins/dropbox/README.md][PlDb] |
+| GitHub | [plugins/github/README.md][PlGh] |
+| Google Drive | [plugins/googledrive/README.md][PlGd] |
+| OneDrive | [plugins/onedrive/README.md][PlOd] |
+| Medium | [plugins/medium/README.md][PlMe] |
+| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+
