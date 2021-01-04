@@ -7,7 +7,7 @@ My name is **Adailson Aguiar** and I have a degree in Information Systems from t
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adailsonaguiar)](https://www.linkedin.com/in/adailsonaguiar)
 
-### :bulb: Projetos
+### :bulb: Projects
 
 <a href="https://adailsonaguiar.github.io/flappy-bird/" target="_blank"><img src="https://gbatemp.net/attachments/icon-png.73831" alt="" width="30" /> Flappy Bird</a> 
 <a href="https://thirsty-lalande-7cf3a3.netlify.app/" target="_blank"><img src="https://thirsty-lalande-7cf3a3.netlify.app/static/media/logo.978d4a4a.svg" alt="" width="70" />infoplay</a>
