@@ -7,6 +7,8 @@ My name is **Adailson Aguiar** and I have a degree in Information Systems from t
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adailsonaguiar)](https://www.linkedin.com/in/adailsonaguiar)
 
+<!--
+
 ### :bulb: Projects
 
 <a href="https://github.com/adailsonaguiar/flappy-bird" target="_blank"><img src="https://gbatemp.net/attachments/icon-png.73831" alt="" width="30" /></a>
@@ -15,6 +17,7 @@ My name is **Adailson Aguiar** and I have a degree in Information Systems from t
 <a href="https://github.com/adailsonaguiar/linkedin-ui-clone" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="" width="30" /></a>
 <a href="https://github.com/adailsonaguiar/pokedex-with-graphql" target="_blank"><img src="https://pokedex-with-graphql.vercel.app/static/media/pokebola.2f044472.svg" alt="" width="30" /></a>
 <a href="https://github.com/adailsonaguiar/laplay-web" target="_blank"><img src="https://laplay-web.herokuapp.com/static/media/icon.968d95d4.svg" alt="" width="30" /></a>
+-->
 
 
 <!--
